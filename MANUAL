@@ -19,9 +19,9 @@
 
 - libcurl - HTTP client
 - OpenSSL - Cryptography
-- pugixml - XML parsing (DASH manifests)
+- pugixml/libpugixml - XML parsing (DASH manifests)
 - CLI11 - Command-line parsing
-- spdlog - Logging
+- spdlog/libspdlog - Logging
 
 ### Basic Usage
 
